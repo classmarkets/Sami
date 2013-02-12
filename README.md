@@ -1,3 +1,9 @@
+*Fork of fabpot/Sami@8ba8d81abc, rebased and merged fabpot/Sami#8 (@link, @see tags).
+It is intended primarily for our own composer repository and will probably be deleted
+if and when this PR gets merged. Do not expect upstream updates.*
+
+* * *
+
 Sami: an API documentation generator
 ====================================
 
